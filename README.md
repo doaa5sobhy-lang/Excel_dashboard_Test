@@ -216,3 +216,6 @@ This project demonstrates strong capabilities in:
 ---
 
 If you found this project useful or insightful, feel free to ⭐ star the repository.
+
+<img width="1618" height="665" alt="Doaa- Adidas-US-Interactive-Sales-Project" src="https://github.com/user-attachments/assets/5eced31a-010b-41f0-ad44-3aebb8209daa" />
+
